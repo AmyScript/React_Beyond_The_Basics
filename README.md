@@ -3,18 +3,20 @@
 
 
 ### Introduction to React
-### Resources to go through before the workshop:
+### Resources and exercise to go through in order before the workshop:
 
-#### Introduction to ES6:
+#### 1) Introduction to ES6:
 https://zellwk.com/blog/es6/
 
-#### Egghead.io intro video to React:
+#### 2) Egghead.io intro video to React:
+Account Login:
+username: cher.timmins@rangle.io	password: R@nglers	
 https://egghead.io/courses/the-beginner-s-guide-to-react
 
-#### Fundamentals of React Medium Article:
+#### 3) Fundamentals of React Medium Article:
 https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2
 
-#### Exercise to complete after going through the resources:
+#### 4) Exercise to complete after going through the resources:
 https://github.com/bridge-school/tulip-cohort1-react-project
 
 
