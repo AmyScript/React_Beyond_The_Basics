@@ -8,15 +8,18 @@
 #### 1) Introduction to ES6:
 https://zellwk.com/blog/es6/
 
-#### 2) Egghead.io intro video to React:
+#### 2) The official intro to React Tutorial:
+https://reactjs.org/tutorial/tutorial.html
+
+#### 3) Egghead.io intro video to React:
 Account Login:
 username: cher.timmins@rangle.io	password: R@nglers	
 https://egghead.io/courses/the-beginner-s-guide-to-react
 
-#### 3) Fundamentals of React Medium Article:
+#### 4) Fundamentals of React Medium Article:
 https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2
 
-#### 4) Exercise to complete after going through the resources:
+#### 5) Exercise to complete after going through the resources:
 https://github.com/bridge-school/tulip-cohort1-react-project
 
 
