@@ -38,7 +38,7 @@ https://github.com/bridge-school/tulip-cohort1-react-project
 
 #### Unit 1: Review of Basics and updated lifecycles in React v16
 
-### Unit 2: React Router v4
+#### Unit 2: React Router v4
 
 #### Unit 3: Static typing with Flow
 
@@ -46,9 +46,9 @@ https://github.com/bridge-school/tulip-cohort1-react-project
 React Router v4
 https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf
 
-### Unit 5: Unit Tests
+#### Unit 5: Unit Tests
 
-### Unit 6: React v16 concepts (portals, fragments, context, renderProps)
+#### Unit 6: React v16 concepts (portals, fragments, context, renderProps)
 
 
 ### Supplemntary Resources during the workshop
