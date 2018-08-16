@@ -29,7 +29,7 @@ Only read up to 'How to fetch data with Axios in React' \
 https://www.robinwieruch.de/react-fetching-data/#react-how-fetch-data
 
 #### 6) Make a Weather App Exercise
-
+https://github.com/rangle/React_Beyond_The_Basics/wiki/Weather-App-Exercise
 
 
 ---
@@ -38,7 +38,7 @@ https://www.robinwieruch.de/react-fetching-data/#react-how-fetch-data
 
 #### Unit 1: Review of Basics and updated lifecycles in React v16
 
-#### Unit 2: React Router v4 \
+#### Unit 2: React Router v4
 React Router v4
 https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf
 
