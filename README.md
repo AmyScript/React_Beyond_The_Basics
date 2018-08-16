@@ -28,8 +28,8 @@ https://www.youtube.com/watch?v=bIOCV0_smbE&list=PL57atfCFqj2g46GOvNNU1cnBUv3_X-
 Only read up to 'How to fetch data with Axios in React'
 https://www.robinwieruch.de/react-fetching-data/#react-how-fetch-data
 
-#### 6) Exercise to complete after going through the resources:
-https://github.com/bridge-school/tulip-cohort1-react-project
+#### 6) Make a Weather App Exercise
+
 
 
 ---
