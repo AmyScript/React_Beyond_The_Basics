@@ -1,10 +1,6 @@
-# React: Beyond The Basics Workshop  :mortar_board:
+# React :mortar_board:
 
-## React Workshop for building knowledge past basic concepts
-
-### Introduction to React :books:
-
-### Resources and exercise to go through in order before the workshop, feel free to skip a topic if you already know it:
+## React Basics:
 
 #### 1) Learn ES6
 
@@ -43,14 +39,15 @@ https://github.com/AmyScript/React_Beyond_The_Basics/wiki/Weather-App-Exercise
 
 ### React: Beyond the basics Topics
 
-#### Unit 1: Review of Basics and updated lifecycles in React v16
+#### updated lifecycles in React v16
+https://reactjs.org/docs/react-component.html#static-getderivedstatefromprops
 
-#### Unit 2: React Router v4
+#### React Router v4
 
 React Router v4 \
 https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf
 
-#### Unit 3: Redux
+#### Redux
 
 Dan Abramov's "Getting Started with Redux" \
 https://egghead.io/courses/getting-started-with-redux
@@ -61,12 +58,12 @@ https://egghead.io/courses/building-react-applications-with-idiomatic-redux
 Tips to learn React + Redux in 2018 \
 https://www.robinwieruch.de/tips-to-learn-react-redux/
 
-#### Unit 4: Static typing with Flow
+#### Static typing with Flow
 
 Getting Started with React + Flow \
 https://flow.org/en/docs/react/
 
-#### Unit 5: Unit Tests
+#### Unit Tests
 
 Official Test Utilities Docs \
 https://reactjs.org/docs/test-utils.html
@@ -82,8 +79,6 @@ https://jestjs.io/docs/en/tutorial-react.html#content
 
 Enzyme - A JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output. \
 http://airbnb.io/enzyme/
-
-#### Unit 6: React v16 concepts (portals, fragments, context, renderProps)
 
 #### Portals
 
