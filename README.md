@@ -110,5 +110,3 @@ https://github.com/rangle/React_Beyond_The_Basics/tree/master/examples/CONTEXT_L
 
 ### Supplementary Resources during the workshop
 
-Egghead.io Account Credentials: \
-username: cher.timmins@rangle.io password: R@nglers
