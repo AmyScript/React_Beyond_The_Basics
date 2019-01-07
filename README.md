@@ -106,7 +106,5 @@ Official Context Docs \
 https://reactjs.org/docs/context.html
 
 Commented Example on how to use context to translate content \
-https://github.com/rangle/React_Beyond_The_Basics/tree/master/examples/CONTEXT_LANG_EXAMPLE.md
-
-### Supplementary Resources during the workshop
+https://github.com/AmyScript/React_Beyond_The_Basics/tree/master/examples/CONTEXT_LANG_EXAMPLE.md
 
