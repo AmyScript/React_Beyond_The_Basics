@@ -37,7 +37,7 @@ https://www.robinwieruch.de/react-fetching-data/#react-how-fetch-data
 
 #### 6) Make a Weather App Exercise
 
-https://github.com/rangle/React_Beyond_The_Basics/wiki/Weather-App-Exercise
+https://github.com/AmyScript/React_Beyond_The_Basics/wiki/Weather-App-Exercise
 
 ---
 
